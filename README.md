@@ -5,7 +5,7 @@ You need CSFML
 
 To use just build and compile main.c
 
-#Screenshots:
+# Screenshots:
 
 ![](ia.png)
 
